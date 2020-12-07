@@ -1,2 +1,25 @@
-# biodiversity-in-national-parks
- Codecademy Data Scientist Path 13.1.1 Biodiversity in National Parks Portfolio Project
+# Biodiversity in National Parks
+## Codecademy Data Scientist Path
+## 13.1.1 Biodiversity in National Parks Portfolio Project
+### Project Overview
+For this project, you will interpret data from the National Parks Service about endangered species in different parks.
+
+You will perform some data analysis on the conservation statuses of these species and investigate if there are any patterns or themes to the types of species that become endangered. During this project, you will analyze, clean up, and plot data as well as pose questions and seek to answer them in a meaningful way.
+
+After you perform your analysis, you will share your findings about the National Park Service.
+
+### Example Project
+[Codecademy Example Solution](https://content.codecademy.com/PRO/paths/data-science/biodiversity-solution.zip)
+
+### Project Objectives:
+* Complete a project to add to your portfolio
+* Use a Jupyter Notebook to communicate findings
+* Run an analysis on a set of data
+* Become familiar with data analysis workflow
+
+### Prerequisites:
+* Data Visualization
+* Communicating Data Science Findings
+
+### Necessary Files:
+Click this [link](https://content.codecademy.com/PRO/paths/data-science/biodiversity-starter.zip) to download a zip file with the necessary starter code and design assets. Note that **biodiversity.ipynb** is a blank file and should be used to create your project.
